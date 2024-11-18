@@ -39,7 +39,8 @@
   "homepage": "https://quantum-circuit.com",
   "dependencies": {
     "antlr4": "4.7.2",
-    "mathjs": "^6.0.3"
+    "mathjs": "^6.0.3",
+    "quantum-circuit": "^0.9.225"
   },
   "devDependencies": {
     "browserify": "^16.5.1",
